@@ -1,0 +1,14 @@
+C:\Users\ATAHARA\source\repos\calculateTheShapes\calculateTheShapes\bin\Debug\calculateTheShapes.exe.config
+C:\Users\ATAHARA\source\repos\calculateTheShapes\calculateTheShapes\bin\Debug\calculateTheShapes.exe
+C:\Users\ATAHARA\source\repos\calculateTheShapes\calculateTheShapes\bin\Debug\calculateTheShapes.pdb
+C:\Users\ATAHARA\source\repos\calculateTheShapes\calculateTheShapes\obj\Debug\calculateTheShapes.csproj.AssemblyReference.cache
+C:\Users\ATAHARA\source\repos\calculateTheShapes\calculateTheShapes\obj\Debug\calculateTheShapes.csproj.CoreCompileInputs.cache
+C:\Users\ATAHARA\source\repos\calculateTheShapes\calculateTheShapes\obj\Debug\calculateTheShapes.exe
+C:\Users\ATAHARA\source\repos\calculateTheShapes\calculateTheShapes\obj\Debug\calculateTheShapes.pdb
+C:\Users\ATAHARA\Desktop\CLYTH_ATAHARA_Test\calculateTheShapes\calculateTheShapes\bin\Debug\calculateTheShapes.exe.config
+C:\Users\ATAHARA\Desktop\CLYTH_ATAHARA_Test\calculateTheShapes\calculateTheShapes\bin\Debug\calculateTheShapes.exe
+C:\Users\ATAHARA\Desktop\CLYTH_ATAHARA_Test\calculateTheShapes\calculateTheShapes\bin\Debug\calculateTheShapes.pdb
+C:\Users\ATAHARA\Desktop\CLYTH_ATAHARA_Test\calculateTheShapes\calculateTheShapes\obj\Debug\calculateTheShapes.csproj.AssemblyReference.cache
+C:\Users\ATAHARA\Desktop\CLYTH_ATAHARA_Test\calculateTheShapes\calculateTheShapes\obj\Debug\calculateTheShapes.csproj.CoreCompileInputs.cache
+C:\Users\ATAHARA\Desktop\CLYTH_ATAHARA_Test\calculateTheShapes\calculateTheShapes\obj\Debug\calculateTheShapes.exe
+C:\Users\ATAHARA\Desktop\CLYTH_ATAHARA_Test\calculateTheShapes\calculateTheShapes\obj\Debug\calculateTheShapes.pdb
